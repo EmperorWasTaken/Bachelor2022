@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Racing Prototype.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Kanata\PWRgame\pwr\Prototypes\Racing Prototype\.idea\.idea.Racing Prototype\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
